@@ -1,0 +1,15 @@
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.csproj.AssemblyReference.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.AssemblyInfoInputs.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.AssemblyInfo.cs
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.csproj.CoreCompileInputs.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/bin/Debug/net7.0/Example2
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/bin/Debug/net7.0/Example2.deps.json
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/bin/Debug/net7.0/Example2.runtimeconfig.json
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/bin/Debug/net7.0/Example2.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/bin/Debug/net7.0/Example2.pdb
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/refint/Example2.dll
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.pdb
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/Example2.genruntimeconfig.cache
+/Users/ellinakorzova/Desktop/ДЗ по С#/ДЗ-8/Example2/obj/Debug/net7.0/ref/Example2.dll
